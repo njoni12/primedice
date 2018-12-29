@@ -85,7 +85,7 @@ Example : Deposit 10$ And Get 20$ In Your Balance.</div>
      data-address="1GbRkJ6qU2C8baGRd4DJULyVzRZ1ESZNQd"
      data-shared="false">
     <div class="blockchain stage-begin">
-        <img src="https://i.imgur.com/dfa79EL.png" width="200px" height="75px" class="imgacc"/>
+        <img src="https://i.imgur.com/5TTV20e.png" width="200px" height="75px" class="imgacc"/>
     </div>
     <div class="blockchain stage-loading" style="text-align:center">
         <img src="https://blockchain.info/Resources/loading-large.gif"/>
