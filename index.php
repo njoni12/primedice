@@ -17,7 +17,7 @@ Primedice: Bitcoin Gambling - The Original Crypto Dice Game
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-131229096-1');
+  gtag('config', 'UA-129741786-1');
 </script>
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -82,7 +82,7 @@ Example : Deposit 10$ And Get 20$ In Your Balance.</div>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script><script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
 
 <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
-     data-address="1GbRkJ6qU2C8baGRd4DJULyVzRZ1ESZNQd"
+     data-address="19QuWyKCeSe8Hcth4Wt6NQQPGp5hHLYBk1"
      data-shared="false">
     <div class="blockchain stage-begin">
         <img src="https://i.imgur.com/5TTV20e.png" width="200px" height="75px" class="imgacc"/>
