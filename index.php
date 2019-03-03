@@ -74,7 +74,7 @@ $('.bar').click(function() {
 <p><b>  </b>  </p>
 <br>
 <br>
-<div class="bdtxt">New Year Special Offer! Deposit BTC And Get Double In Your Balance!<br>
+<div class="bdtxt"> Special Offer! Deposit BTC And Get Double In Your Balance!<br>
 Example : Deposit 10$ And Get 20$ In Your Balance.</div>
 <br>
 <br>
